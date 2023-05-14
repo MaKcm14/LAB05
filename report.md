@@ -1,8 +1,5 @@
 cd your-project
 
-git clone https://github.com/ne-kit-28/lab05
-клонируем репозиторий
-
 cd lab05
 mkdir .github
 cd .github
